@@ -10,7 +10,7 @@
 .shop#shop-product .product-tabs .sticky-menu {
     z-index: 10;
 }
-.sticky-menu .l-header__cart__inner { 
+.sticky-menu .l-header__cart__inner {
     width: auto;
 }
 #shop-product .tabs-wrapper-product, #shop-product #product-details {width: 100% !important;}
