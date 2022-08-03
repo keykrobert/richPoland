@@ -397,7 +397,8 @@
     padding-bottom: 10px;
 }
 .section-5 .section-logo {
-    margin-bottom: 10%;
+    margin-bottom: 6%;
+    /*margin-bottom: 10%;*/
     /*max-width: 180px;*/
 }
 .section-logo img {
@@ -546,7 +547,7 @@
     width: 43%;
 }
 .section-13 .text-container p {
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }
 .section-14 .section-bg-overlay {
     position: absolute;
