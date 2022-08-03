@@ -160,18 +160,21 @@
 .specs-container {
     display: flex;
     align-items: baseline;
-    justify-content: space-around;
+    justify-content: flex-start;
     position: absolute;
-    width: 65%;
+    width: 320px;
+    flex-wrap: wrap;
 }
 .specs-item {
     text-align: center;
+    width: 50%;
+    padding-bottom: 25px;
 }
 .specs-item-img {
     margin-bottom: 20px;
 }
 .specs-item-name {
-    font-size: 18px;
+    line-height: 1.5;
 }
 .section-5 .section-bg-overlay {
     position: absolute;
