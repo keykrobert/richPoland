@@ -214,7 +214,11 @@
     font-weight: 100;
     font-style: normal;
 }
-
+* {
+    font-family: 'Montserrat';
+    font-weight: 350;
+    font-style: normal;
+}
 .shop#shop-product .product-tabs .sticky-menu {
     z-index: 10;
 }
