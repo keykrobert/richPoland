@@ -273,7 +273,7 @@
 }
 .tagline {
     font-size: 42px;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
     line-height: 1.6;
     font-weight: 600;
 }
@@ -359,13 +359,14 @@
     margin-bottom: 40px;
 }
 .section-title2 h2 {
-    font-weight: 200;
-    letter-spacing: 8px;
-    font-size: 48px;
+    font-weight: 300;
+    letter-spacing: 6px;
+    font-size: 30px;
 }
 .text-container {
     font-size: 18px;
     line-height: 1.2;
+    letter-spacing: 2px;
 }
 .text-container li {
     margin-bottom: 6%;
@@ -447,7 +448,7 @@
 .section-8 .info-item {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
 }
 .section-8 .info-items-row {
     padding-bottom: 5%;
@@ -881,4 +882,13 @@ a.btn-st1:hover {
 }
 .sound-by-jvc p {
     font-size: 26px;
+}
+.section-row.h100.main-section{
+    padding-bottom: 52%;
+}
+.text-container.super-clear-image{
+    font-size: 16px;
+}
+.section-jvc{
+
 }
