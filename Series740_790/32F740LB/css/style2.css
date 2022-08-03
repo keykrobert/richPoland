@@ -21,7 +21,7 @@
     text-transform: uppercase;
 }
 .section-row {
-    display: flex; 
+    display: flex;
 }
 .h100 {
     height: 100%;
@@ -148,6 +148,8 @@
 }
 .section-title2 h2 {
     font-weight: 200;
+    letter-spacing: 4px;
+    font-size: 48px;
 }
 .text-container {
     font-size: 18px;
