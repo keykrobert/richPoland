@@ -346,7 +346,7 @@
     padding-top: 8%;
 }
 .section-5 .section-row {
-    padding-left: 59.5%;
+    padding-left: 53.5%;
     padding-top: 16%;
 }
 .section-7 .section-row {
@@ -892,4 +892,7 @@ a.btn-st1:hover {
 }
 .section-jvc{
 
+}
+.chapter-description.text-container.section-game{
+    padding-left: 3%;
 }
