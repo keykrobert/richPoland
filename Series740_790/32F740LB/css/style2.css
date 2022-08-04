@@ -376,7 +376,7 @@
     align-items: baseline;
     justify-content: space-around;
     position: absolute;
-    width: 65%;
+    width: 46%;
 }
 .specs-item {
     text-align: center;
@@ -547,6 +547,9 @@
     width: 43%;
 }
 .section-13 .text-container p {
+    margin-bottom: 0;
+}
+.section-14 .text-container p {
     margin-bottom: 0;
 }
 .section-14 .section-bg-overlay {
